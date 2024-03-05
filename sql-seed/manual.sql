@@ -1,0 +1,2 @@
+INSERT INTO movies(name, year, synopsis, starringActor, imdbRating, rottenTomatoScore, director, producer)
+VALUES('TRON', 1982, 'A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.', 'Jeff Bridges', 6.7, 6, 'Steven Lisberger', 'Donald Kushner');
